@@ -5,6 +5,8 @@
 ### Last Modified: 01-24-2024
 
 ## Description
+This project was a lab assignment for my **Programming 1 Fundamentals class** at the **University of Florida**.  
+
 This Python script is part of the Module 2 Lab Activity C and serves as a simple currency converter. The program allows users to convert a specified amount of currency between three options: USD (United States Dollar), CAD (Canadian Dollar), and YEN (Japanese Yen). The user inputs the amount, the original currency, and the desired currency to convert to, and the program returns the converted value.
 
 ## Features
